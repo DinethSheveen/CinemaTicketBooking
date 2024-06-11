@@ -22,7 +22,7 @@ public class Cinema{
         do {
             try {
                 Scanner input = new Scanner(System.in);
-                System.out.print("Enter the movie number you want to want : ");
+                System.out.print("Enter the movie number you want : ");
                 int movie = input.nextInt();
                 switch (movie) {
                     case 1:
