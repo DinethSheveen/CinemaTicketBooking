@@ -10,7 +10,7 @@ public class Cinema{
             {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
     };
 
-    public static void main(String[] args) {
+    public static void main (String[] args){
         System.out.println("------Welcome to APX Cinema------");
         System.out.println("Select the movie you want to watch:");
         System.out.println("1.Godzilla X Kong : New Empire");
